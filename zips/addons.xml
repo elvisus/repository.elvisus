@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<settings version="2">
+    <setting id="addon_tracking_atstart" default="true">false</setting>
+    <setting id="addon_tracking_doit" default="true"></setting>
+    <setting id="addon_tracking_interval" default="true">12</setting>
+    <setting id="addon_tracking_lastscrap" default="true"></setting>
+    <setting id="addon_tracking_verbose" default="true">false</setting>
+    <setting id="addon_update_atstart">true</setting>
+    <setting id="addon_update_doit" default="true"></setting>
+    <setting id="addon_update_doitforce" default="true"></setting>
+    <setting id="addon_update_verbose" default="true">false</setting>
+    <setting id="adults_password" default="true"></setting>
+    <setting id="autoplay" default="true">false</setting>
+    <setting id="autoplay_channels_discarded" default="true"></setting>
+    <setting id="autoplay_max_links" default="true">10</setting>
+    <setting id="autoplay_one_link">true</setting>
+    <setting id="block_size">1</setting>
+    <setting id="channel_cinecalidad_dominio" default="true"></setting>
+    <setting id="channel_documaniatv_rua" default="true"></setting>
+    <setting id="channel_hdfull_dominio" default="true"></setting>
+    <setting id="channels_link_main">true</setting>
+    <setting id="channels_link_pyse" default="true">false</setting>
+    <setting id="channels_list_order">true</setting>
+    <setting id="channels_list_prefe_color" default="true">[COLOR gold]gold[/COLOR]</setting>
+    <setting id="channels_list_status" default="true">0</setting>
+    <setting id="channels_only_adults" default="true"></setting>
+    <setting id="channels_only_anime" default="true"></setting>
+    <setting id="channels_only_torrents" default="true"></setting>
+    <setting id="channels_with_proxies" default="true"></setting>
+    <setting id="chrome_last_version">89.0.4389.114</setting>
+    <setting id="cliente_torrent" default="true">Seleccionar</setting>
+    <setting id="colorear_enlaces_play">true</setting>
+    <setting id="context_download_color" default="true">[COLOR orange]orange[/COLOR]</setting>
+    <setting id="context_search_exact_color" default="true">[COLOR gold]gold[/COLOR]</setting>
+    <setting id="context_search_similar_color" default="true">[COLOR yellow]yellow[/COLOR]</setting>
+    <setting id="context_tracking_color" default="true">[COLOR blue]blue[/COLOR]</setting>
+    <setting id="context_trailer_color" default="true">[COLOR pink]pink[/COLOR]</setting>
+    <setting id="copy_log" default="true"></setting>
+    <setting id="debug" default="true">0</setting>
+    <setting id="descartar_anime" default="true">false</setting>
+    <setting id="descartar_xxx" default="true">false</setting>
+    <setting id="downloadpath" default="true"></setting>
+    <setting id="httptools_timeout" default="true">15</setting>
+    <setting id="label0" default="true"></setting>
+    <setting id="label1" default="true"></setting>
+    <setting id="list_info_order">3</setting>
+    <setting id="list_languages_color" default="true">[COLOR red]red[/COLOR]</setting>
+    <setting id="list_movie_color" default="true">[COLOR white]white[/COLOR]</setting>
+    <setting id="list_qualities_color" default="true">[COLOR limegreen]limegreen[/COLOR]</setting>
+    <setting id="list_show_year">3</setting>
+    <setting id="list_tvshow_color" default="true">[COLOR white]white[/COLOR]</setting>
+    <setting id="list_year_color" default="true">[COLOR gray]gray[/COLOR]</setting>
+    <setting id="manto_cache" default="true"></setting>
+    <setting id="manto_cookies" default="true"></setting>
+    <setting id="manto_datos" default="true"></setting>
+    <setting id="manto_descargas" default="true"></setting>
+    <setting id="manto_params" default="true"></setting>
+    <setting id="manto_preferidos" default="true"></setting>
+    <setting id="manto_proxies" default="true"></setting>
+    <setting id="max_buffer">5</setting>
+    <setting id="max_connections">4</setting>
+    <setting id="notification_beep" default="true">false</setting>
+    <setting id="notification_d_ok" default="true">false</setting>
+    <setting id="part_size">1</setting>
+    <setting id="play_age_color" default="true">[COLOR deepskyblue]deepskyblue[/COLOR]</setting>
+    <setting id="play_language_color" default="true">[COLOR red]red[/COLOR]</setting>
+    <setting id="play_other_color" default="true">[COLOR white]white[/COLOR]</setting>
+    <setting id="play_quality_color" default="true">[COLOR limegreen]limegreen[/COLOR]</setting>
+    <setting id="play_server_color" default="true">[COLOR gold]gold[/COLOR]</setting>
+    <setting id="preferencia_idioma_esp">1</setting>
+    <setting id="preferencia_idioma_lat">2</setting>
+    <setting id="preferencia_idioma_vos">3</setting>
+    <setting id="proxies_auto">true</setting>
+    <setting id="proxies_help">true</setting>
+    <setting id="proxies_limit">true</setting>
+    <setting id="proxies_list" default="true">false</setting>
+    <setting id="proxies_maximo">true</setting>
+    <setting id="proxies_paises" default="true">false</setting>
+    <setting id="proxies_provider">10</setting>
+    <setting id="proxies_tipos" default="true">false</setting>
+    <setting id="proxies_validos">true</setting>
+    <setting id="search_channels_prefered" default="true"></setting>
+    <setting id="search_extra_main" default="true">false</setting>
+    <setting id="search_limit_by_channel" default="true">2</setting>
+    <setting id="search_multithread">true</setting>
+    <setting id="search_no_channels" default="true">false</setting>
+    <setting id="search_no_channels_actives" default="true"></setting>
+    <setting id="search_no_channels_with_proxies" default="true"></setting>
+    <setting id="search_no_proxies" default="true">false</setting>
+    <setting id="search_no_results" default="true">false</setting>
+    <setting id="search_only_prefered" default="true">false</setting>
+    <setting id="search_show_last">true</setting>
+    <setting id="servers_discarded" default="true"></setting>
+    <setting id="servers_preferred" default="true"></setting>
+    <setting id="servers_sort_quality" default="true">0</setting>
+    <setting id="servers_unfavored" default="true"></setting>
+    <setting id="show_changelog" default="true"></setting>
+    <setting id="show_channels_list" default="true"></setting>
+    <setting id="show_clients_torrent" default="true"></setting>
+    <setting id="show_dev_notes" default="true"></setting>
+    <setting id="show_help_adults" default="true"></setting>
+    <setting id="show_help_faq" default="true"></setting>
+    <setting id="show_help_proxies" default="true"></setting>
+    <setting id="show_help_search" default="true"></setting>
+    <setting id="show_help_settings" default="true"></setting>
+    <setting id="show_help_tips" default="true"></setting>
+    <setting id="show_help_tmbdblist" default="true"></setting>
+    <setting id="show_help_torrents" default="true"></setting>
+    <setting id="show_help_tracking" default="true"></setting>
+    <setting id="show_help_tracking_update" default="true"></setting>
+    <setting id="show_help_use" default="true"></setting>
+    <setting id="show_last_fix" default="true"></setting>
+    <setting id="show_log" default="true"></setting>
+    <setting id="show_servers_list" default="true"></setting>
+    <setting id="show_version" default="true"></setting>
+    <setting id="tmdb_cache">true</setting>
+    <setting id="tmdb_cache_expire">4</setting>
+    <setting id="tmdb_clean_db_cache" default="true"></setting>
+    <setting id="tmdb_disabled" default="true">false</setting>
+    <setting id="tmdb_drop_db_cache" default="true"></setting>
+    <setting id="tmdb_plus_info" default="true">false</setting>
+    <setting id="tmdb_threads" default="true">20</setting>
+    <setting id="tracking_confirm_tmdbid" default="true">false</setting>
+    <setting id="tracking_current_dbname" default="true">default</setting>
+    <setting id="tracking_order_episodes">1</setting>
+    <setting id="tracking_order_movies" default="true">0</setting>
+    <setting id="tracking_order_tvshows" default="true">0</setting>
+    <setting id="tracking_perpage_episodes" default="true">10</setting>
+    <setting id="tracking_perpage_movies" default="true">10</setting>
+    <setting id="tracking_perpage_tvshows" default="true">10</setting>
+    <setting id="tracking_viewmode_episodes" default="true">0</setting>
+    <setting id="tracking_viewmode_movies" default="true">0</setting>
+    <setting id="tracking_viewmode_seasons" default="true">0</setting>
+    <setting id="tracking_viewmode_tvshows" default="true">0</setting>
+    <setting id="tracking_weberror_dialog">true</setting>
+    <setting id="ver_stable_chrome">true</setting>
+    <setting id="xxx_password" default="true"></setting>
+</settings>
+
+<addon id="repository.elvisus" name="SUPERKODI REPO" version="1.0" provider-name="elvisus">
+    <extension point="xbmc.addon.repository" name="SUPERKODI REPO">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/elvisus/repository.elvisus/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/elvisus/repository.elvisus/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/elvisus/repository.elvisus/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>SUPERKODI REPO</summary>
+        <description>The best repo for kodi (skin, movies, TV shows, etc...)</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<settings>
+    <setting id="skinhelper.enablemusicart" type="bool">true</setting>
+    <setting id="homeicons" type="bool">false</setting>
+    <setting id="usetracknamingtemplate" type="bool">false</setting>
+    <setting id="homemultihorizontal" type="bool">false</setting>
+    <setting id="musicvis.fanartfallback" type="bool">false</setting>
+    <setting id="global.showvisualisation" type="bool">false</setting>
+    <setting id="skinhelper.enableanimatedposters" type="bool">false</setting>
+    <setting id="hideosddiffusecolors" type="bool">false</setting>
+    <setting id="debuginfo" type="bool">false</setting>
+    <setting id="artistslideshow.disabled" type="bool">false</setting>
+    <setting id="enhancedaddonlabels" type="bool">false</setting>
+    <setting id="disablecodecs" type="bool">false</setting>
+    <setting id="disableheader" type="bool">false</setting>
+    <setting id="hideosdscrollingtext" type="bool">false</setting>
+    <setting id="osdvisualisation.showfanart" type="bool">false</setting>
+    <setting id="tmdbhelper.enableblur" type="bool">false</setting>
+    <setting id="artistslideshow.animate" type="bool">false</setting>
+    <setting id="pvrguide.info" type="bool">false</setting>
+    <setting id="numericstarrating" type="bool">false</setting>
+    <setting id="disablemusicosdartistimage" type="bool">false</setting>
+    <setting id="musicosdsquareartist" type="bool">false</setting>
+    <setting id="showosdclearart" type="bool">false</setting>
+    <setting id="tmdbhelper.disableratings" type="bool">false</setting>
+    <setting id="dontpauseosd" type="bool">false</setting>
+    <setting id="nofanart" type="bool">false</setting>
+    <setting id="bigmusicvis" type="bool">false</setting>
+    <setting id="disableautoscrollwidgets" type="bool">false</setting>
+    <setting id="tmdbhelper.forcewidgetcontainer" type="bool">false</setting>
+    <setting id="enableblur" type="bool">false</setting>
+    <setting id="showinfopaused" type="bool">false</setting>
+    <setting id="disablegeometric" type="bool">false</setting>
+    <setting id="kioskmode" type="bool">false</setting>
+    <setting id="disableosdinfo" type="bool">false</setting>
+    <setting id="pvrguide.colordiffuse" type="bool">false</setting>
+    <setting id="disablecenter" type="bool">false</setting>
+    <setting id="minimalbusyloader" type="bool">false</setting>
+    <setting id="useaurashowcase" type="bool">false</setting>
+    <setting id="faunefonts" type="bool">false</setting>
+    <setting id="onlyblurinfo" type="bool">false</setting>
+    <setting id="disablewatchedoverlay" type="bool">false</setting>
+    <setting id="fixedwidgets" type="bool">false</setting>
+    <setting id="tmdbhelper.enablecolors" type="bool">false</setting>
+    <setting id="posterblur" type="bool">false</setting>
+    <setting id="disableclock" type="bool">false</setting>
+    <setting id="startup.init" type="bool">true</setting>
+    <setting id="osdsubtitlesettings" type="bool">false</setting>
+    <setting id="pvrguide.startend" type="bool">false</setting>
+    <setting id="normallyrics" type="bool">false</setting>
+    <setting id="tags.disablecodecs" type="bool">false</setting>
+    <setting id="pvrguide.disableslimmode" type="bool">false</setting>
+    <setting id="tmdbhelper.disableartwork" type="bool">false</setting>
+    <setting id="autoplotoverlay" type="bool">false</setting>
+    <setting id="global.showvideo" type="bool">false</setting>
+    <setting id="enablelanguages" type="bool">false</setting>
+    <setting id="pvrguide.channelnumber" type="bool">false</setting>
+    <setting id="ratings.top250" type="bool">false</setting>
+    <setting id="automusicvis" type="bool">false</setting>
+    <setting id="tmdbhelper.enabledesaturate" type="bool">false</setting>
+    <setting id="disableshadows" type="bool">false</setting>
+    <setting id="disablemusicvideoautoinfo" type="bool">false</setting>
+    <setting id="SkinShortcuts-FullMenu" type="bool">true</setting>
+    <setting id="tmdbhelper.disableextendedproperties" type="bool">false</setting>
+    <setting id="ratings.metacritic" type="bool">false</setting>
+    <setting id="flipside" type="bool">false</setting>
+    <setting id="ratings.imdb" type="bool">false</setting>
+    <setting id="skinhelper.enablepvrthumbs" type="bool">true</setting>
+    <setting id="enableclearlogo" type="bool">false</setting>
+    <setting id="tags.disablelanguages" type="bool">false</setting>
+    <setting id="skininit" type="bool">true</setting>
+    <setting id="disablemusicosdclearlogo" type="bool">false</setting>
+    <setting id="landscapeart" type="bool">false</setting>
+    <setting id="disablenowplaying" type="bool">false</setting>
+    <setting id="updateart.enabled" type="bool">false</setting>
+    <setting id="tags.disablecountries" type="bool">false</setting>
+    <setting id="SubmenuOnly" type="bool">true</setting>
+    <setting id="homemulti" type="bool">true</setting>
+    <setting id="skinhelper.enableextrafanart" type="bool">false</setting>
+    <setting id="kenburnseffect" type="bool">false</setting>
+    <setting id="ratings.rottentomatoesaudience" type="bool">false</setting>
+    <setting id="ratings.rottentomatoes" type="bool">false</setting>
+    <setting id="ratings.user" type="bool">false</setting>
+    <setting id="ratings.oscars" type="bool">false</setting>
+    <setting id="tags.disablestudios" type="bool">false</setting>
+    <setting id="hometextautowidth" type="bool">false</setting>
+    <setting id="disablestarrating" type="bool">false</setting>
+    <setting id="ratings.themoviedb" type="bool">false</setting>
+    <setting id="themeswitcher" type="bool">false</setting>
+    <setting id="plotoutline" type="bool">false</setting>
+    <setting id="ratings.tvdb" type="bool">false</setting>
+    <setting id="TMDbHelper.Service" type="bool">true</setting>
+    <setting id="cornericon" type="string"></setting>
+    <setting id="colorbox_blend" type="string">100</setting>
+    <setting id="skin.forcedview.genres" type="string"></setting>
+    <setting id="skin.forcedview.years" type="string"></setting>
+    <setting id="skin.forcedview.countries" type="string"></setting>
+    <setting id="colorbox_bitsize" type="string">1</setting>
+    <setting id="skinshortcuts-sharedmenu" type="string">true</setting>
+    <setting id="colorbox_effect" type="string">blur</setting>
+    <setting id="TMDbHelper.AutoUpdate.LastTime" type="string"></setting>
+    <setting id="startupplaylist" type="string"></setting>
+    <setting id="skin.forcedview.studios" type="string"></setting>
+    <setting id="skin.forcedview.files" type="string"></setting>
+    <setting id="SkinHelper.AutoCloseMusicOSD" type="string"></setting>
+    <setting id="skin.forcedview.albums" type="string"></setting>
+    <setting id="skin.forcedview.songs" type="string"></setting>
+    <setting id="colorbox_blursize" type="string">30</setting>
+    <setting id="colorbox_pixelsize" type="string">12</setting>
+    <setting id="skin.forcedview.unknown" type="string"></setting>
+    <setting id="focuscolor.name" type="string"></setting>
+    <setting id="colorbox_comp" type="string">main:hls*0.75;0;0@fhls*-;0.45;0.9</setting>
+    <setting id="skin.forcedview.musicvideos" type="string"></setting>
+    <setting id="skin.forcedview.sets" type="string"></setting>
+    <setting id="skin.forcedview.seasons" type="string"></setting>
+    <setting id="colorbox_white" type="string">ffffff</setting>
+    <setting id="skin.forcedview.tags" type="string"></setting>
+    <setting id="autoscroll" type="string"></setting>
+    <setting id="skin.forcedview.mixed" type="string"></setting>
+    <setting id="widgetPath" type="string">special://skin/extras/playlists/RandomMovies.xsp</setting>
+    <setting id="widgetTarget" type="string">videos</setting>
+    <setting id="skin.forcedview." type="string"></setting>
+    <setting id="skin.forcedview.games" type="string"></setting>
+    <setting id="skin.forcedview.tvshows" type="string"></setting>
+    <setting id="FallbackSourceFlag" type="string"></setting>
+    <setting id="skin.forcedview.addons" type="string"></setting>
+    <setting id="colorbox_main" type="string">main:fhls*-;0.45;0.9</setting>
+    <setting id="skin.forcedview.movies" type="string"></setting>
+    <setting id="colorbox_quality" type="string">4</setting>
+    <setting id="SkinHelper.AutoCloseVideoOSD" type="string"></setting>
+    <setting id="colorbox_black" type="string">000000</setting>
+    <setting id="skin.forcedview.episodes" type="string"></setting>
+    <setting id="posterhighlight" type="string"></setting>
+    <setting id="skin.forcedview.actors" type="string"></setting>
+    <setting id="skin.forcedview.playlists" type="string"></setting>
+    <setting id="colorbox_desat" type="string">0.3</setting>
+    <setting id="homebackgroundimage" type="string"></setting>
+    <setting id="skin.forcedview.directors" type="string"></setting>
+    <setting id="weather.icons.path" type="string">resource://resource.images.weathericons.outline-hd/</setting>
+    <setting id="skin.forcedview.videos" type="string"></setting>
+    <setting id="fanart.fallback" type="string"></setting>
+    <setting id="skin.forcedview.artists" type="string"></setting>
+    <setting id="skin.forcedview.images" type="string"></setting>
+</settings>
+</addons>
